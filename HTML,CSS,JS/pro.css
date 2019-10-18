@@ -1,11 +1,13 @@
-h1{color:#b300b3;}
+h1{color:#b300b3; border: 15px groove purple;}
 h3{color: #4d004d ; font-weight: lighter;}
-table{background-color:pink;}
+table{background-color:pink; border: 5px solid purple ;border-collapse: collapse;}
 #h2know{color:#4d004d; font-family:serif; font-size:large; font-style:italic; font-weight:lighter; text-align:left; }
-.back{background-color:#ffb3ff;}
+.back{background-color:#ffb3ff; }
 .h2{background-color:#ffb3ff}
 a{color:blue;}
-h2{color:#e600e6; }
+h2{color:#e600e6; border: 10px double purple;}
 b{color:red;}
-th{color:#4d004d;}
-td{color:#e600e6; }
+th{color:#4d004d;border: 5px solid purple ; border-collapse: collapse;}
+td{color:#e600e6;border: 5px solid #ff00bf ;
+border-collapse: collapse;}
+img{float: right;}
